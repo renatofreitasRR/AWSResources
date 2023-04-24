@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaAWS", "LambdaAWS\Lamb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaWithDynamoDB", "LambdaWithDynamoDB\LambdaWithDynamoDB.csproj", "{3D151FF8-1DC8-4FDF-A751-A21A57FFC64C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaAnnotations", "LambdaAnnotations\LambdaAnnotations.csproj", "{93485D12-E420-49E2-BFDC-FC374DBD9C14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3D151FF8-1DC8-4FDF-A751-A21A57FFC64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D151FF8-1DC8-4FDF-A751-A21A57FFC64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D151FF8-1DC8-4FDF-A751-A21A57FFC64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93485D12-E420-49E2-BFDC-FC374DBD9C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93485D12-E420-49E2-BFDC-FC374DBD9C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93485D12-E420-49E2-BFDC-FC374DBD9C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93485D12-E420-49E2-BFDC-FC374DBD9C14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
