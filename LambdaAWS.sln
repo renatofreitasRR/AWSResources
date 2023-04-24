@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaAnnotations", "Lambda
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaSQS", "LambdaSQS\LambdaSQS.csproj", "{8E17A27A-9A57-4618-8129-27E30EDE26DA}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaSNS", "LambdaSNS\LambdaSNS.csproj", "{45686CCC-98C3-43C9-BD56-D35FE585301B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8E17A27A-9A57-4618-8129-27E30EDE26DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E17A27A-9A57-4618-8129-27E30EDE26DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E17A27A-9A57-4618-8129-27E30EDE26DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45686CCC-98C3-43C9-BD56-D35FE585301B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45686CCC-98C3-43C9-BD56-D35FE585301B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45686CCC-98C3-43C9-BD56-D35FE585301B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45686CCC-98C3-43C9-BD56-D35FE585301B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
